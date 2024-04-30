@@ -48,8 +48,6 @@ Remember to deactivate your virtual environment when you're done by running:
 deactivate
 ```
 
-````
-
 ## Key Features:
 
 - **User-friendly**: Each utility is developed with simplicity and ease of use in mind, ensuring that both novice and experienced developers can benefit.
@@ -72,14 +70,13 @@ deactivate
 python -m cli.main image-to-base64 /path/to/image/
 ```
 
-
 ## Getting Started
 
 To get started with SmaPyTools, clone this repository:
 
 ```bash
 git clone https://github.com/imsma/SmaPyTools.git
-````
+```
 
 ## Contributing
 
