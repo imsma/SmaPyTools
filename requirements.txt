@@ -1,0 +1,4 @@
+Pillow>=9.0
+click>=8.0
+pytest==6.2.5  # For testing, not needed for package functionality
+flake8  # For code quality checks

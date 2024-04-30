@@ -68,12 +68,17 @@ deactivate
 - **Versatile**: Suitable for a variety of programming tasks.
 - **Community-Driven**: Contributions are welcome to extend functionality.
 
+```bash
+python -m cli.main image-to-base64 /path/to/image/
+```
+
+
 ## Getting Started
 
 To get started with SmaPyTools, clone this repository:
 
 ```bash
-git clone https://github.com/your-username/SmaPyTools.git
+git clone https://github.com/imsma/SmaPyTools.git
 ````
 
 ## Contributing
